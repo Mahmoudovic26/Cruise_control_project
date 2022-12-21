@@ -1,9 +1,12 @@
 # Cruise_control_project
 Cruise Control system	
 
-I got this code from Mathworks with tiny edits which compatable with my version of matlab 
+  
 
+```diff
+- I got this code from Mathworks with tiny edits which compatable with my version of matlab
 
+```
 Open-loop step response
 The open-loop response of the system, without any feedback control, to a step input force of 500 Newtons is simulated in MATLAB as follows:
 
